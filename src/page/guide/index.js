@@ -52,7 +52,7 @@ export default function Guide() {
         <Markdown />
         <div className="go-github-edit">
           <a
-            href={`https://github.com/Virkano/front-end-roadmap/edit/master/src/page/guide/md/${query}.md`}
+            href={`https://github.com/Virkano/front-end-roadmap/tree/main/src/page/guide/md/${query}.md`}
           >
             想要补充，点击这里
             <span role="img" aria-label="cool">
